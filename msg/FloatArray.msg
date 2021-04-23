@@ -1,0 +1,2 @@
+bool status_server
+std_msgs/Float64MultiArray data
